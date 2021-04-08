@@ -404,6 +404,10 @@ div.footer h6 {
         background-color: #bcc3c7;
         transition: all 0.3s ease;
     }
+    
+    #burger:hover{
+        cursor:pointer;
+    }
 
     .toggle .line1 {
         transform: rotate(-45deg) skew(10deg) translate(-5px, 6px);
